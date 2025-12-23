@@ -1,4 +1,4 @@
-# chromewaita
+# chromeadwaita
 An Adwaita theme for Google Chrome using the dark mode color palette introduced in GNOME 48.
 
 ![A screenshot of the theme](https://github.com/user-attachments/assets/c1422cb6-f375-428f-9cdf-fa7d9da07785)

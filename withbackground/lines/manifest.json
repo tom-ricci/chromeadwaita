@@ -20,6 +20,9 @@
       },
       "images": {
         "theme_ntp_background": "theme_ntp_background.png"
+      },
+      "properties": {
+        "ntp_background_alignment": "center"
       }
    },
    "update_url": "https://clients2.google.com/service/update2/crx",
